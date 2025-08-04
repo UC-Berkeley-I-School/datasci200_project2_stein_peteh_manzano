@@ -9,3 +9,4 @@ DATASCI 200 Project 2 - Summer 2025
 - 2025-08-1 Edited initial Project 2 EDA notebook with data preperation and cleaning section  (Eliot Stein)
 - 2025-08-2 Finalized the data preperation and cleaning sections, worked on the analysis and visulization of walkability gaps, and added to the presentation deck (Eliot Stein)
 - 2025-08-3 Collaborated with the team and cleaned up the documentation (Don Manzano and Eliot Stein)
+- 2025-08-3 Copied working notebook into the final copy for grading. (Don Manzano)
